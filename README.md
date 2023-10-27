@@ -1,3 +1,3 @@
-# mlvfs
+# mfstorage
 
-Multi-source Linux Visual File System
+Multi-source File Storage
